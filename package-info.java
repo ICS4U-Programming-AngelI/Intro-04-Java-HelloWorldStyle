@@ -1,5 +1,5 @@
-/**
- * This is the package-info for 
+/**.
+ * This is the package-info for
  * HelloWorldStyle.java.
  * @author Angel
  * @version 1.0
